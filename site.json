@@ -1,0 +1,11 @@
+{
+  "title": "Resume",
+  "description": "Create visually stunning cyberpunk animated resumes that showcase your skills and creativity, perfect for standing out in competitive job markets.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
